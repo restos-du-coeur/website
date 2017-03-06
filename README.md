@@ -11,8 +11,8 @@ people to find housing and supports other projects. This not-for-profit associat
 
 # The Felix's mission
 
-Salut Félix,
-Si tu trouves ça un peu dur pour débuter je te conseil [ Code Academy ] (https://https://www.codecademy.com/)
+> Salut Félix,
+Si tu trouves ça un peu dur pour débuter je te conseil [ Code Academy ] (https://www.codecademy.com/)
 
 ### Objectifs
 
