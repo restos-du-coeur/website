@@ -1,5 +1,4 @@
 # Restaurants du Cœur website
----
 
 The Restaurants du Cœur (literally Restaurants of the Heart but meaning Restaurants of Love),
 commonly and familiarly known as the Restos du Cœur, is a French charity, the main activity
