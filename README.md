@@ -11,7 +11,12 @@ people to find housing and supports other projects. This not-for-profit associat
 
 # The Felix's mission
 
-Mise à jour de la mission
+Salut Félix,
+Si tu trouves ça un peu dur pour débuter je te conseil [ Code Academy ] (https://https://www.codecademy.com/)
+
+### Objectifs
+
+Voilà une petite mise à jour de tes objectifs,
 
 - [ ] Cloner ce dépôt 
 - [ ] Editer le fichier index.html
