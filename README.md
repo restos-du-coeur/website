@@ -46,6 +46,7 @@ Voilà une petite mise à jour de tes objectifs,
 #### Commandes Git
 
 Cloner un dépot 
+
 ```bash
 git clone <adresse du dépôt>
 ```
@@ -58,6 +59,7 @@ git add <adresse du fichier>
 ```
 
 Commit
+
 ```bash
 git commit -m "message décrivant les modifications apportées"
 ```
@@ -66,6 +68,7 @@ git commit -m "message décrivant les modifications apportées"
 
 Lier une feuille de style à un fichier html
 > Dans la balise head
+
 ```html
  <link rel="stylesheet" type="text/css" href="chemin/du/fichier.css">
 ```
