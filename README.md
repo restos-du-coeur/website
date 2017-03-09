@@ -20,7 +20,7 @@ Voilà une petite mise à jour de tes objectifs,
 
 - [ ] Cloner ce dépôt 
 - [ ] Editer le fichier index.html
-    *Tu peux t'inspirer de [ Twitter Bootstrap ](https://getbootstrap.com/getting-started).*
+    **Tu peux t'inspirer de [ Twitter Bootstrap ](https://getbootstrap.com/getting-started).**
     * Y mettre le contenu standard d'une page html
     * Lui donner un titre (balise title)
     * Lier le fichier bootstrap.css
@@ -30,9 +30,9 @@ Voilà une petite mise à jour de tes objectifs,
     * Créer un fichier style.css 
     * L'ajouter à ta copie de ce dépôt 
     * Lier ce fichier à index.html
-    *juste après le lien à bootstrap.css*
+    **juste après le lien à bootstrap.css**
     * Ajouter ta touche personnel à la page
-    *En éditant le fichier style.css*
+    **En éditant le fichier style.css**
 - [ ] navbar.html
     * Copier le code html d'une navbar de twitter bootstrap
     * Le modifier pour le faire correspondre au menu du site regionlilloise.restosducoeur.org
@@ -46,26 +46,26 @@ Voilà une petite mise à jour de tes objectifs,
 #### Commandes Git
 
 Cloner un dépot 
-'''
+```bash
 git clone <adresse du dépôt>
-'''
+```
 
 Ajouter un fichier à l'index git 
 > Les modifications sur tout les fichiers ajoutés seront prises en compte lors du prochain commit
 
-'''
+```bash
 git add <adresse du fichier>
-'''
+```
 
 Commit
-'''
+```bash
 git commit -m "message décrivant les modifications apportées"
-'''
+```
  
 #### HTML
 
 Lier une feuille de style à un fichier html
-> Dans la balise <head>...</head>
-'''
+> Dans la balise head
+```html
  <link rel="stylesheet" type="text/css" href="chemin/du/fichier.css">
-'''
+```
