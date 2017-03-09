@@ -1,3 +1,10 @@
+# Sommaire
+
+- [ Présentation des restos ] (#restaurants-du-c%C5%93ur-website)
+- [ Objectifs de Félix ] (#the-felixs-mission)
+- [ Aide ] (#aide)
+
+
 # Restaurants du Cœur website
 
 The Restaurants du Cœur (literally Restaurants of the Heart but meaning Restaurants of Love),
