@@ -12,7 +12,7 @@ people to find housing and supports other projects. This not-for-profit associat
 # The Felix's mission
 
 > Salut Félix,
-Si tu trouves ça un peu dur pour débuter je te conseil [ Code Academy ] (https://www.codecademy.com/)
+Si tu trouves ça un peu dur pour débuter, je te conseille [ Code Academy ] (https://www.codecademy.com/).
 
 ### Objectifs
 
@@ -22,9 +22,10 @@ Voilà une petite mise à jour de tes objectifs,
 - [ ] Editer le fichier index.html
     *Tu peux t'inspirer de [ Twitter Bootstrap ](https://getbootstrap.com/getting-started).*
     * Y mettre le contenu standard d'une page html
+    * Lui donner un titre (balise title)
     * Lier le fichier bootstrap.css
     * Ajouter un gros titre dans une balise h1
-    * Ajouter un message de bienvenu au format de ton choix
+    * Ajouter un message de bienvenue au format de ton choix
 - [ ] CSS
     * Créer un fichier style.css 
     * L'ajouter à ta copie de ce dépôt 
@@ -39,3 +40,32 @@ Voilà une petite mise à jour de tes objectifs,
     * Ajoute tous les fichiers que tu as créés ou modifiés à ton projet git
     * Fait un commit avec un message qui décrit brièvement ton travail
     * Enfin, Fait un "pull request" avec ta nouvelle version du projet
+
+### Aide
+
+#### Commandes Git
+
+Cloner un dépot 
+'''
+git clone <adresse du dépôt>
+'''
+
+Ajouter un fichier à l'index git 
+> Les modifications sur tout les fichiers ajoutés seront prises en compte lors du prochain commit
+
+'''
+git add <adresse du fichier>
+'''
+
+Commit
+'''
+git commit -m "message décrivant les modifications apportées"
+'''
+ 
+#### HTML
+
+Lier une feuille de style à un fichier html
+> Dans la balise <head>...</head>
+'''
+ <link rel="stylesheet" type="text/css" href="chemin/du/fichier.css">
+'''
