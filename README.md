@@ -12,7 +12,7 @@ people to find housing and supports other projects. This not-for-profit associat
 # The Felix's mission
 
 > Salut Félix,
-Si tu trouves ça un peu dur pour débuter, je te conseille [ Code Academy ] (https://www.codecademy.com/).
+Si tu trouves ça un peu dur pour débuter, je te conseille [ Code Academy. ] (https://www.codecademy.com/)
 
 ### Objectifs
 
@@ -20,7 +20,7 @@ Voilà une petite mise à jour de tes objectifs,
 
 - [ ] Cloner ce dépôt 
 - [ ] Editer le fichier index.html
-    **Tu peux t'inspirer de [ Twitter Bootstrap ](https://getbootstrap.com/getting-started).**
+    **Tu peux t'inspirer de [ Twitter Bootstrap. ](https://getbootstrap.com/getting-started)**
     * Y mettre le contenu standard d'une page html
     * Lui donner un titre (balise title)
     * Lier le fichier bootstrap.css
@@ -41,9 +41,9 @@ Voilà une petite mise à jour de tes objectifs,
     * Fait un commit avec un message qui décrit brièvement ton travail
     * Enfin, Fait un "pull request" avec ta nouvelle version du projet
 
-### Aide
+# Aide
 
-#### Commandes Git
+### Commandes Git
 
 Cloner un dépot 
 
@@ -64,7 +64,7 @@ Commit
 git commit -m "message décrivant les modifications apportées"
 ```
  
-#### HTML
+### HTML
 
 Lier une feuille de style à un fichier html
 > Dans la balise head
