@@ -1,8 +1,8 @@
 # Sommaire
 
-- [ Présentation des restos ] (#restaurants-du-c%C5%93ur-website)
-- [ Objectifs de Félix ] (#the-felixs-mission)
-- [ Aide ] (#aide)
+- [Présentation des restos] (#restaurants-du-c%C5%93ur-website)
+- [Objectifs de Félix] (#the-felixs-mission)
+- [Aide] (#aide)
 
 
 # Restaurants du Cœur website
