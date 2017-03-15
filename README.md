@@ -1,8 +1,8 @@
 # Sommaire
 
-- [Présentation des restos] (#restaurants-du-c%C5%93ur-website)
-- [Objectifs de Félix] (#the-felixs-mission)
-- [Aide] (#aide)
+- [Présentation des restos](#restaurants-du-c%C5%93ur-website)
+- [Objectifs de Félix](#the-felixs-mission)
+- [Aide](#aide)
 
 
 # Restaurants du Cœur website
@@ -19,7 +19,7 @@ people to find housing and supports other projects. This not-for-profit associat
 # The Felix's mission
 
 > Salut Félix,
-Si tu trouves ça un peu dur pour débuter, je te conseille [ Code Academy. ] (https://www.codecademy.com/)
+Si tu trouves ça un peu dur pour débuter, je te conseille [Code Academy.](https://www.codecademy.com/)
 
 ### Objectifs
 
