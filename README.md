@@ -18,14 +18,14 @@ people to find housing and supports other projects. This not-for-profit associat
 
 # The Felix's mission
 
-> Salut Félix,
-Si tu trouves ça un peu dur pour débuter, je te conseille [Code Academy.](https://www.codecademy.com/)
+> Salut Félix, Si tu trouves ça un peu dur pour débuter, je te conseille [Code Academy.](https://www.codecademy.com/)
 
-### Objectifs
+## Objectifs
 
 Voilà une petite mise à jour de tes objectifs,
 
 - [ ] Cloner ce dépôt 
+
 - [ ] Editer le fichier index.html
     **Tu peux t'inspirer de [ Twitter Bootstrap. ](https://getbootstrap.com/getting-started)**
     * Y mettre le contenu standard d'une page html
@@ -33,6 +33,7 @@ Voilà une petite mise à jour de tes objectifs,
     * Lier le fichier bootstrap.css
     * Ajouter un gros titre dans une balise h1
     * Ajouter un message de bienvenue au format de ton choix
+
 - [ ] CSS
     * Créer un fichier style.css 
     * L'ajouter à ta copie de ce dépôt 
@@ -40,9 +41,11 @@ Voilà une petite mise à jour de tes objectifs,
     **juste après le lien à bootstrap.css**
     * Ajouter ta touche personnel à la page
     **En éditant le fichier style.css**
+
 - [ ] navbar.html
     * Copier le code html d'une navbar de twitter bootstrap
     * Le modifier pour le faire correspondre au menu du site regionlilloise.restosducoeur.org
+
 - [ ] Git
     * Ajoute tous les fichiers que tu as créés ou modifiés à ton projet git
     * Fait un commit avec un message qui décrit brièvement ton travail
